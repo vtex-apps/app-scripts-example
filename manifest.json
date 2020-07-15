@@ -1,0 +1,16 @@
+{
+  "vendor": "vtex",
+  "name": "app-scripts-example",
+  "version": "0.1.0",
+  "title": "app scripts example",
+  "description": "test scripts",
+  "builders": {
+    "scripts": "0.x"
+  },
+  "dependencies": {},
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
