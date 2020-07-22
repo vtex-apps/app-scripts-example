@@ -5,6 +5,7 @@
   "title": "app scripts example",
   "description": "test scripts",
   "builders": {
+    "docs": "0.x",
     "scripts": "0.x"
   },
   "dependencies": {},
